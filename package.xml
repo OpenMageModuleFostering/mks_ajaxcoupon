@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Mks_Ajaxcoupon</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>add the coupon code in last step of checkout process</summary>
+    <description>add the coupon code in last step of checkout process</description>
+    <notes>add the coupon code in last step of checkout process</notes>
+    <authors><author><name>mukesh kumar saini</name><user>mukeshbagri</user><email>in.mukeshsaini@gmail.com</email></author></authors>
+    <date>2013-12-19</date>
+    <time>11:27:24</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Mks_Ajaxcoupon.xml" hash="51140caa8c9335b9ced73e8f7bbcfd41"/></dir></target><target name="magelocal"><dir name="Mks"><dir name="Ajaxcoupon"><dir name="Helper"><file name="Data.php" hash="66223ebdf6559b7e5d541d9bd9544af8"/></dir><dir name="controllers"><file name="IndexController.php" hash="61f14228ccd96a985e8abd6191359ef2"/></dir><dir name="etc"><file name="config-original.xml" hash="a23187f2e37a72591019bb185f74c903"/><file name="config.xml" hash="1e40f37ab69a7a4d15b87daa0b89ebb5"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="ajaxcoupon.xml" hash="92db44c4188fb715d77c882191c6c762"/></dir><dir name="template"><dir name="ajaxcoupon"><file name="ajaxcoupon.phtml" hash="9c14a872130685df72b3ca13a181b597"/><file name="info.phtml" hash="63278c437ba0d70e73a7a936bea40dcf"/></dir></dir></dir></dir></dir></target><target name="mage"><dir name="js"><dir name="jquery"><file name="jquery-1.6.4.min.js" hash="c40c304e40c34a809ab5f2b2462fe4d9"/><file name="noconflict.js" hash="3179f2255b046d5f2e9a71e365287bef"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
