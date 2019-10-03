@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Mks_Ajaxcoupon",
+    "name": "openmage-module-fostering\/mks_ajaxcoupon",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "add the coupon code in last step of checkout process",
     "authors": [
