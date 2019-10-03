@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Mks_Ajaxcoupon",
+    "name": "OpenMageModuleFostering\/Mks_Ajaxcoupon",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "add the coupon code in last step of checkout process",
     "authors": [
-    {
-        "name": "mukesh kumar saini",
-        "email": "in.mukeshsaini@gmail.com"
-    }
-],
+        {
+            "name": "mukesh kumar saini",
+            "email": "in.mukeshsaini@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
